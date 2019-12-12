@@ -5,7 +5,7 @@
       "type": "eventHubTrigger",
       "name": "event",
       "direction": "in",
-      "eventHubName": "iotlab-antchu",
+      "eventHubName": "iothublab3",
       "connection": "EventHubConnectionString",
       "cardinality": "one",
       "consumerGroup": "$Default"
